@@ -21,7 +21,7 @@
 // THE SOFTWARE.
 
 #import "Orbiter.h"
-#import "AFNetworking.h"
+#import <AFNetworking/AFNetworking.h>
 
 #if defined(__IPHONE_OS_VERSION_MIN_REQUIRED)
 #import <UIKit/UIKit.h>
